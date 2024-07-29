@@ -1,0 +1,30 @@
+{
+    "entradas": 100,
+    "saidas": 50,
+    "consumo_frigobar": 200,
+    "consumo_bar": 150,
+    "consumo_eroticos": 300,
+    "periodos": ["Janeiro", "Fevereiro", "Março"],
+    "top_consumidores": [
+        {"nome": "João", "consumo": 500},
+        {"nome": "Maria", "consumo": 300},
+        {"nome": "José", "consumo": 200}
+    ],
+    "top_produtos": [
+        {"nome": "Cerveja", "quantidade": 100},
+        {"nome": "Whisky", "quantidade": 50},
+        {"nome": "Vinho", "quantidade": 30}
+    ],
+    "media_consumo_hospede": 200,
+    "media_consumo_frigobar": 100,
+    "media_consumo_bar": 50,
+    "media_consumo_eroticos": 150,
+    "total_consumo_frigobar": 1000,
+    "total_consumo_bar": 500,
+    "total_consumo_eroticos": 1500,
+    "total_consumo_periodo": [
+        {"periodo": "Janeiro", "total_consumo": 500},
+        {"periodo": "Fevereiro", "total_consumo": 300},
+        {"periodo": "Março", "total_consumo": 200}
+    ]
+}
